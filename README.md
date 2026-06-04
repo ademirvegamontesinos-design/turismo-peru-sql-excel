@@ -14,7 +14,6 @@ Analizar la evolución de visitantes a sitios turísticos del Perú, identifican
 - pgAdmin
 - Microsoft Excel
 - SQL
-- Datos abiertos de MINCETUR
 
 ## Principales análisis realizados
 
@@ -30,15 +29,15 @@ Analizar la evolución de visitantes a sitios turísticos del Perú, identifican
 - El turismo tuvo una caída significativa en 2020.
 - Cusco y Lima concentran la mayor cantidad de visitantes registrados.
 - El Circuito Mágico del Agua fue el sitio turístico con mayor número de visitantes.
-- En 2025, el total de visitantes se encuentra 1.38% por debajo del nivel de 2019.
+- En 2025, el total de visitantes se encuentra 1.38% por debajo del nivel prepandemia de 2019.
 - Los visitantes nacionales representan la mayor proporción del total analizado.
 
 ## Archivos del proyecto
 
-- `analisis_turismo_peru.sql`: consultas SQL utilizadas para el análisis.
-- `dashboard_turismo_peru.xlsx`: dashboard desarrollado en Excel.
-- `dashboard_turismo_peru.png`: imagen final del dashboard.
-- `Visitantes_sitios_turisticos_2019_2025.csv`: dataset utilizado.
+- [`analisis_turismo_peru.sql`](analisis_turismo_peru.sql): consultas SQL utilizadas para el análisis.
+- [`dashboard_turismo_peru.xlsx`](dashboard_turismo_peru.xlsx): dashboard desarrollado en Excel.
+- [`dashboard_turismo_peru.png`](dashboard_turismo_peru.png): imagen final del dashboard.
+- [`Visitantes_sitios_turisticos_2019_2025.csv`](Visitantes_sitios_turisticos_2019_2025.csv): dataset utilizado.
 
 ## Fuente de datos
 
