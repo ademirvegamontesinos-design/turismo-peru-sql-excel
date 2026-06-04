@@ -4,6 +4,14 @@ Proyecto de análisis de datos usando información abierta de MINCETUR sobre vis
 
 ![Dashboard](dashboard_turismo_peru.png)
 
+# Introducción
+
+El turismo es una de las actividades económicas más importantes del Perú, debido a su impacto en la generación de empleo, el desarrollo regional y la promoción del patrimonio cultural y natural del país. El análisis de los flujos turísticos permite comprender el comportamiento de los visitantes, identificar tendencias y evaluar el desempeño de los principales destinos turísticos.
+
+El presente proyecto tiene como objetivo analizar la evolución de los visitantes a sitios turísticos del Perú durante el periodo 2019-2025 utilizando PostgreSQL y consultas SQL. Para ello, se emplearon datos abiertos proporcionados por el Ministerio de Comercio Exterior y Turismo (MINCETUR), los cuales contienen información sobre el número de visitantes, tipo de visitante, ubicación geográfica y periodo de registro.
+
+A través de diferentes consultas SQL se realizaron análisis de visitantes por año, departamento, sitio turístico y tipo de visitante, además de evaluar la recuperación del sector turístico después del impacto generado por la pandemia de COVID-19. Finalmente, los resultados fueron presentados mediante indicadores clave (KPIs) y visualizaciones desarrolladas en Microsoft Excel, facilitando la interpretación de los hallazgos obtenidos.
+
 ## Objetivo
 
 Analizar la evolución de visitantes a sitios turísticos del Perú, identificando tendencias anuales, principales destinos, distribución por tipo de visitante y recuperación post-pandemia.
