@@ -30,14 +30,58 @@ Para el desarrollo del proyecto se utilizó PostgreSQL como sistema de gestión 
 
 La tabla constituye la fuente principal para todas las consultas SQL y análisis realizados en el proyecto.
 
-## Principales análisis realizados
+## Consultas SQL Realizadas
 
-- Visitantes totales por año.
-- Comparación de visitantes nacionales vs extranjeros.
-- Top 10 sitios turísticos más visitados.
-- Visitantes por departamento.
-- Recuperación del turismo entre 2019 y 2025.
-- KPIs generales del periodo.
+Durante el desarrollo del proyecto se elaboraron diversas consultas SQL con el objetivo de analizar el comportamiento de los visitantes a los principales sitios turísticos del Perú entre 2019 y 2025.
+
+### Exploración y validación de datos
+
+* Visualización de registros para verificar la correcta importación del dataset.
+* Conteo total de registros almacenados en la base de datos.
+
+### Análisis de visitantes
+
+* Cálculo del total de visitantes por año.
+* Comparación entre visitantes nacionales y extranjeros.
+* Análisis de visitantes por mes.
+* Evaluación de la tendencia mensual de visitantes por año.
+
+### Análisis geográfico
+
+* Identificación de los sitios turísticos más visitados.
+* Determinación de los departamentos con mayor cantidad de visitantes.
+
+### Indicadores y KPIs
+
+* Total de visitantes registrados.
+* Total de visitantes nacionales.
+* Total de visitantes extranjeros.
+* Cantidad de sitios turísticos analizados.
+* Cantidad de departamentos incluidos en el estudio.
+
+### Análisis comparativo y recuperación turística
+
+* Comparación de visitantes entre 2019 y 2025.
+* Cálculo de la variación porcentual respecto al periodo prepandemia.
+* Identificación de los sitios turísticos con mayor crecimiento de visitantes.
+
+### Técnicas SQL Aplicadas
+
+* SELECT
+* WHERE
+* GROUP BY
+* ORDER BY
+* SUM()
+* COUNT()
+* COUNT(DISTINCT)
+* CASE WHEN
+* HAVING
+* LIMIT
+* Common Table Expressions (CTE) mediante WITH
+* Funciones de agregación y análisis comparativo
+
+Todas las consultas desarrolladas se encuentran disponibles en el archivo `analisis_turismo_peru.sql`.
+
 
 ## Insights principales
 
