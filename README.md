@@ -26,6 +26,9 @@ Analizar la evolución de visitantes a sitios turísticos del Perú, identifican
 
 Para el desarrollo del proyecto se utilizó PostgreSQL como sistema de gestión de bases de datos. La información fue almacenada en una tabla denominada visitantes_sitios_turisticos, la cual contiene los registros de visitantes a los principales sitios turísticos del Perú durante el periodo 2019-2025.
 
+![Modelo de Datos](1.png)
+
+La tabla constituye la fuente principal para todas las consultas SQL y análisis realizados en el proyecto.
 
 ## Principales análisis realizados
 
