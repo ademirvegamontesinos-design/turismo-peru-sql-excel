@@ -42,4 +42,8 @@ Analizar la evolución de visitantes a sitios turísticos del Perú, identifican
 
 ## Fuente de datos
 
-Datos abiertos de MINCETUR: Visitantes a sitios turísticos del Perú.
+Los datos fueron obtenidos de la Plataforma Nacional de Datos Abiertos del Perú:
+
+[Visitantes a sitios turísticos del Perú - Ministerio de Comercio Exterior y Turismo (MINCETUR)](https://www.datosabiertos.gob.pe/dataset/visitantes-sitios-tur%C3%ADsticos-del-per%C3%BA-ministerio-de-comercio-exterior-y-turismo-mincetur)
+
+Periodo analizado: 2019-2025.
