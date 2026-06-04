@@ -76,7 +76,7 @@ Durante el desarrollo del proyecto se elaboraron diversas consultas SQL con el o
 * Common Table Expressions (CTE) mediante WITH
 * Funciones de agregación y análisis comparativo
 
-Todas las consultas desarrolladas se encuentran disponibles en el archivo `analisis_turismo_peru.sql`.
+Todas las consultas desarrolladas se encuentran disponibles en el archivo [`analisis_turismo_peru.sql`](analisis_turismo_peru.sql).
 
 
 ## Insights principales
