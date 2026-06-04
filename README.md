@@ -1,9 +1,5 @@
 # Análisis de Visitantes a Sitios Turísticos del Perú 2019-2025
 
-Proyecto de análisis de datos usando información abierta de MINCETUR sobre visitantes a sitios turísticos del Perú entre 2019 y 2025.
-
-![Dashboard](dashboard_turismo_peru.png)
-
 # Introducción
 
 El turismo es una de las actividades económicas más importantes del Perú, debido a su impacto en la generación de empleo, el desarrollo regional y la promoción del patrimonio cultural y natural del país. El análisis de los flujos turísticos permite comprender el comportamiento de los visitantes, identificar tendencias y evaluar el desempeño de los principales destinos turísticos.
@@ -90,6 +86,30 @@ Todas las consultas desarrolladas se encuentran disponibles en el archivo `anali
 - El Circuito Mágico del Agua fue el sitio turístico con mayor número de visitantes.
 - En 2025, el total de visitantes se encuentra 1.38% por debajo del nivel prepandemia de 2019.
 - Los visitantes nacionales representan la mayor proporción del total analizado.
+
+## Dashboard Excel
+
+Con el fin de facilitar la interpretación de los resultados obtenidos mediante SQL, se desarrolló un dashboard interactivo en Microsoft Excel que resume los principales indicadores y tendencias del turismo en el Perú durante el periodo 2019-2025.
+
+El dashboard incluye visualizaciones y métricas clave que permiten analizar la evolución de los visitantes, la distribución por tipo de visitante, los destinos turísticos más visitados y el proceso de recuperación del sector turístico después de la pandemia.
+
+### Elementos del Dashboard
+
+* Total de visitantes registrados en el periodo analizado.
+* Comparación entre visitantes nacionales y extranjeros.
+* Evolución anual de visitantes.
+* Top 10 sitios turísticos más visitados.
+* Top departamentos con mayor afluencia turística.
+* Tendencia mensual de visitantes.
+* Indicadores clave de desempeño (KPIs).
+* Comparación entre 2019 y 2025 para evaluar la recuperación turística.
+
+### Vista del Dashboard
+
+![Dashboard](dashboard_turismo_peru.png)
+
+El dashboard fue construido utilizando tablas dinámicas, gráficos dinámicos y segmentadores en Excel, permitiendo una visualización clara y eficiente de los resultados obtenidos a partir de las consultas SQL realizadas.
+
 
 ## Archivos del proyecto
 
