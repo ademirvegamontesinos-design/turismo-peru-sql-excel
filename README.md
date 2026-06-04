@@ -110,6 +110,14 @@ El dashboard incluye visualizaciones y métricas clave que permiten analizar la 
 
 El dashboard fue construido utilizando tablas dinámicas, gráficos dinámicos y segmentadores en Excel, permitiendo una visualización clara y eficiente de los resultados obtenidos a partir de las consultas SQL realizadas.
 
+## Conclusión
+
+Este proyecto permitió analizar la evolución de visitantes a sitios turísticos del Perú durante el periodo 2019-2025, utilizando datos abiertos de MINCETUR. A través de PostgreSQL se importaron, validaron y analizaron los datos mediante consultas SQL, obteniendo KPIs, tendencias anuales, rankings de sitios turísticos, distribución por tipo de visitante y comparación entre 2019 y 2025.
+
+Los resultados muestran una fuerte caída del turismo en 2020, seguida de una recuperación progresiva en los años posteriores. Sin embargo, para 2025 el total de visitantes aún se encuentra ligeramente por debajo del nivel prepandemia de 2019, con una variación de -1.38%. Además, se identificó que los visitantes nacionales representan la mayor proporción del total analizado, y que destinos como el Circuito Mágico del Agua, Machupicchu y otros atractivos de Cusco se encuentran entre los más visitados.
+
+Finalmente, el dashboard desarrollado en Excel permitió presentar los principales hallazgos de forma visual, clara y ejecutiva, integrando el análisis SQL con herramientas de visualización para facilitar la interpretación de los datos.
+
 
 ## Archivos del proyecto
 
