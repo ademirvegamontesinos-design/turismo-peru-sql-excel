@@ -79,7 +79,7 @@ Durante el desarrollo del proyecto se elaboraron diversas consultas SQL con el o
 Todas las consultas desarrolladas se encuentran disponibles en el archivo [`analisis_turismo_peru.sql`](analisis_turismo_peru.sql).
 
 
-## Insights principales
+## Hallazgos principales
 
 - El turismo tuvo una caída significativa en 2020.
 - Cusco y Lima concentran la mayor cantidad de visitantes registrados.
